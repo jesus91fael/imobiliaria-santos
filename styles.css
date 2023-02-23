@@ -1,0 +1,181 @@
+body{
+  margin: 0;
+  font-family: "Tahoma";
+}
+p{
+  width: 980px;
+  line-height: 28px;
+  font-size: 18px;
+  text-align: justify;
+  margin: 0 auto;
+
+}
+
+span{
+  font-weight: bold;
+}
+
+.secao-1{
+  padding: 30px 0;
+  text-align: center;
+  background-color: #afddfb;
+}
+
+.secao-1 img{
+  width: 150px
+}
+
+.secao-1 nav ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+  margin-top: 15px;
+  margin-bottom: 25px
+
+}
+
+.secao-1 nav ul li{
+  margin: auto 10px;
+  color: #1d1d1d;
+  font-size: 18px;
+  border-bottom: 2px solid #1d1d1d;
+}
+
+.secao-1 nav ul li a{
+  text-decoration: none;
+}
+
+.secao-2{
+  margin-top: 50px;
+  padding: 0;
+  text-align:center;
+}
+
+.secao-3{
+  padding: 30px 0;
+  text-align: center;
+}
+
+.secao-3 h1{
+  color: #1d1d1d;
+  margin-bottom: 5px;
+}
+
+.secao-3 h2{
+  color: #1d81c1;
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.secao-3 img{
+  width: 450px;
+}
+
+.secao-3 p span{
+  color: #1d81c1;
+}
+
+.secao-4{
+  padding: 30px 0;
+  background-color: #1D80C1;
+  color: #ffffff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.secao-4 h2{
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.secao-4 p{
+  font-size: 22px;
+  width: 700px;
+}
+
+.secao-4 p span{
+  color: #fff81b;
+}
+.secao-4 ul{
+  padding-top: 40px;  
+  padding-bottom: 40px;  
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;s
+}
+
+.secao-4 ul li{
+  line-height: 42px;
+  text-align: left;
+  font-size: 22px;
+  float: left;
+
+}
+
+.secao-5{
+  padding: 30px 0;
+  text-align: center;  
+}
+
+.secao-5 h2{
+  color: #1D80C1;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.secao-5 img{
+  width: 450px;
+}
+
+.secao-5 p span{
+  color: #1D80C1;
+}
+
+.secao-6{
+  padding: 30px 0;
+  background-color: #1D80C1;
+  color: #ffffff;
+  text-align: center;
+
+}
+
+.secao-6 h2{
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.secao-6 p{
+  padding: 15px;
+  margin: 30px auto;
+  background-color: #1d1d1d;
+}
+
+.secao-6 p span{
+  color: #fff81b;
+}
+
+.secao-6 ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.secao-6 ul li{
+  list-style: none;
+  margin: 15px auto;
+}
+
+.secao-6 ul li a{
+  padding: 2px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #1D80C1;
+  font-size: 18px;
+  width: 210px;
+
+}
